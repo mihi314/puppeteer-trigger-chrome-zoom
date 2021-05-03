@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-trigger-chrome-zoom",
+  "version": "1.0.0",
+  "description": "A minimal repository to demonstrate triggering chrome zoom with puppeteer.",
+  "main": "main.js",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  },
+  "scripts": {
+    "main": "node main.js"
+  },
+  "author": "Michael Engelhard",
+  "license": "MIT"
+}
